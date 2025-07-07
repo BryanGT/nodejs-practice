@@ -1,0 +1,19 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Practice nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practice",
+    "nodejs",
+    "js"
+  ],
+  "author": "Bryan Barrios <sanbsbr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
